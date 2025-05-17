@@ -1,4 +1,4 @@
-package com.ecomarketspa_vm.cl.ecomarket.Model;
+package com.ecomarketspa_vm.cl.ecomarket.model;
 
 import java.util.Date;
 
